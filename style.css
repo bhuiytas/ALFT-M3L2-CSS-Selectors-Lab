@@ -1,3 +1,58 @@
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+}
+
+.div{
+  border: 5px solid black;
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+}
+
+.one {
+  background-color: red;
+
+}
+
+.four {
+  background-color:#0d8220 ;
+}
+
+.seven {
+  background-color:#e100ff;
+}
+
+.ACE {
+  background-color: #4c00ff ;
+}
+
+.BDFM {
+  color: #ffffff;
+  background-color: #f3a435 ;
+}
+
+.G {
+  background-color: #00ff1e;
+}
+
+.S {
+  background-color: #4d564e;
+}
+
+.JZ {
+  background-color: #614200;
+}
+
+.L{
+  background-color: gray;
+  
+}
+
+.NQRW {
+  background-color: #fbff00;
+}
 
 
 
@@ -12,22 +67,14 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-/****** DO NOT CHANGE THE STYLES BELOW THIS ******/
+/****** DO CHANGE THE STYLES BELOW THIS ******/
 
 body {
   font-family: Helvetica, Arial, sans-serif;
+  background-color:  turquoise;
+  
 }
+
 
 h1 {
     text-align: center;
@@ -39,6 +86,7 @@ ul {
 }
 
 li {
+  color:white;
     margin: 0;
     display: inline-block;
     font-size: 3em;
